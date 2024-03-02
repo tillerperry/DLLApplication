@@ -1,0 +1,1 @@
+\\vmware-host\Shared Folders\Documents\PROJ\TestProjects\DllConSoleApp\Calculator\x64\Debug\Calculator.vcxproj.AssemblyReference.cache
