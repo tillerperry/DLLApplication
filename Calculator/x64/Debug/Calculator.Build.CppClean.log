@@ -2,13 +2,14 @@
 \\vmware-host\shared folders\documents\proj\testprojects\dllconsoleapp\x64\debug\calculator.pdb
 \\vmware-host\shared folders\documents\proj\testprojects\dllconsoleapp\calculator\x64\debug\calculator.pch
 \\vmware-host\shared folders\documents\proj\testprojects\dllconsoleapp\calculator\x64\debug\vc143.pdb
-\\vmware-host\shared folders\documents\proj\testprojects\dllconsoleapp\calculator\x64\debug\vc143.idb
 \\vmware-host\shared folders\documents\proj\testprojects\dllconsoleapp\calculator\x64\debug\pch.obj
 \\vmware-host\shared folders\documents\proj\testprojects\dllconsoleapp\calculator\x64\debug\multiplydll.obj
 \\vmware-host\shared folders\documents\proj\testprojects\dllconsoleapp\calculator\x64\debug\dllmain.obj
+\\vmware-host\shared folders\documents\proj\testprojects\dllconsoleapp\calculator\x64\debug\.netframework,version=v4.7.2.assemblyattributes.obj
 \\vmware-host\shared folders\documents\proj\testprojects\dllconsoleapp\x64\debug\calculator.lib
 \\vmware-host\shared folders\documents\proj\testprojects\dllconsoleapp\x64\debug\calculator.exp
 \\vmware-host\shared folders\documents\proj\testprojects\dllconsoleapp\calculator\x64\debug\calculator.tlog\link.read.1.tlog
+\\vmware-host\shared folders\documents\proj\testprojects\dllconsoleapp\calculator\x64\debug\calculator.tlog\metagen.write.1.tlog
 \\vmware-host\shared folders\documents\proj\testprojects\dllconsoleapp\calculator\x64\debug\calculator.tlog\link.command.1.tlog
 \\vmware-host\shared folders\documents\proj\testprojects\dllconsoleapp\calculator\x64\debug\calculator.tlog\link.write.1.tlog
 \\vmware-host\shared folders\documents\proj\testprojects\dllconsoleapp\calculator\x64\debug\calculator.tlog\cl.read.1.tlog
@@ -16,3 +17,4 @@
 \\vmware-host\shared folders\documents\proj\testprojects\dllconsoleapp\calculator\x64\debug\calculator.tlog\cl.command.1.tlog
 \\vmware-host\shared folders\documents\proj\testprojects\dllconsoleapp\calculator\x64\debug\calculator.tlog\cl.write.1.tlog
 \\vmware-host\shared folders\documents\proj\testprojects\dllconsoleapp\calculator\x64\debug\calculator.tlog\cl.items.tlog
+\\vmware-host\shared folders\documents\proj\testprojects\dllconsoleapp\calculator\x64\debug\calculator.tlog\metagen.read.1.tlog

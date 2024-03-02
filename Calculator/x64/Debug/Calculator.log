@@ -4,11 +4,10 @@
   Generating Code...
 \\vmware-host\Shared Folders\Documents\PROJ\TestProjects\DllConSoleApp\Calculator\multiplydll.cpp(6,38): warning C4273: 'MultiplyNumbers': inconsistent dll linkage
   (compiling source file 'file:///multiplydll.cpp')
-  \\vmware-host\Shared Folders\Documents\PROJ\TestProjects\DllConSoleApp\Calculator\Multiply.h(11,24):
+  \\vmware-host\Shared Folders\Documents\PROJ\TestProjects\DllConSoleApp\Calculator\Multiply.h(8,24):
   see previous definition of 'MultiplyNumbers'
   
-\\vmware-host\Shared Folders\Documents\PROJ\TestProjects\DllConSoleApp\Calculator\dllmain.cpp(1,1): warning C4747: Calling managed 'DllMain': Managed code may not be run under loader lock, including the DLL entrypoint and calls reached from the DLL entrypoint
   .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
-LINK : warning LNK4076: invalid incremental status file 'x64\Debug\Calculator.ilk' (which will be deleted); linking nonincrementally
+  dllmain.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
      Creating library \\vmware-host\Shared Folders\Documents\PROJ\TestProjects\DllConSoleApp\x64\Debug\Calculator.lib and object \\vmware-host\Shared Folders\Documents\PROJ\TestProjects\DllConSoleApp\x64\Debug\Calculator.exp
   Calculator.vcxproj -> \\vmware-host\Shared Folders\Documents\PROJ\TestProjects\DllConSoleApp\x64\Debug\Calculator.dll

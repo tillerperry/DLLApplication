@@ -4,21 +4,6 @@
   "Documents": [
     {
       "AbsoluteMoniker": "D:0:0:{46ACB54A-863A-4785-BA94-F0D2BE95DD6A}|MyConsoleApp\\MyConsoleApp.csproj|\\\\vmware-host\\shared folders\\documents\\proj\\testprojects\\dllconsoleapp\\myconsoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6C045583-6F17-4C06-9C7B-181CB4C14B9D}|Calculator\\Calculator.vcxproj|\\\\vmware-host\\Shared Folders\\Documents\\PROJ\\TestProjects\\DllConSoleApp\\Calculator\\Multiply.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6C045583-6F17-4C06-9C7B-181CB4C14B9D}|Calculator\\Calculator.vcxproj|\\\\vmware-host\\Shared Folders\\Documents\\PROJ\\TestProjects\\DllConSoleApp\\Calculator\\multiplydll.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6C045583-6F17-4C06-9C7B-181CB4C14B9D}|Calculator\\Calculator.vcxproj|\\\\vmware-host\\Shared Folders\\Documents\\PROJ\\TestProjects\\DllConSoleApp\\Calculator\\dllmain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6C045583-6F17-4C06-9C7B-181CB4C14B9D}|Calculator\\Calculator.vcxproj|\\\\vmware-host\\Shared Folders\\Documents\\PROJ\\TestProjects\\DllConSoleApp\\Calculator\\framework.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6C045583-6F17-4C06-9C7B-181CB4C14B9D}|Calculator\\Calculator.vcxproj|\\\\vmware-host\\Shared Folders\\Documents\\PROJ\\TestProjects\\DllConSoleApp\\Calculator\\pch.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,8 +13,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -38,84 +27,10 @@
               "RelativeDocumentMoniker": "MyConsoleApp\\Program.cs",
               "ToolTip": "\\\\vmware-host\\Shared Folders\\Documents\\PROJ\\TestProjects\\DllConSoleApp\\MyConsoleApp\\Program.cs",
               "RelativeToolTip": "MyConsoleApp\\Program.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABMAAAAAAAAA",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAYwBIAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-02T08:59:20.576Z",
-              "IsPinned": true,
+              "WhenOpened": "2024-03-02T14:07:03.614Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "multiplydll.cpp",
-              "DocumentMoniker": "\\\\vmware-host\\Shared Folders\\Documents\\PROJ\\TestProjects\\DllConSoleApp\\Calculator\\multiplydll.cpp",
-              "RelativeDocumentMoniker": "Calculator\\multiplydll.cpp",
-              "ToolTip": "\\\\vmware-host\\Shared Folders\\Documents\\PROJ\\TestProjects\\DllConSoleApp\\Calculator\\multiplydll.cpp",
-              "RelativeToolTip": "Calculator\\multiplydll.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAA0AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-03-02T08:51:20.695Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "framework.h",
-              "DocumentMoniker": "\\\\vmware-host\\Shared Folders\\Documents\\PROJ\\TestProjects\\DllConSoleApp\\Calculator\\framework.h",
-              "RelativeDocumentMoniker": "Calculator\\framework.h",
-              "ToolTip": "\\\\vmware-host\\Shared Folders\\Documents\\PROJ\\TestProjects\\DllConSoleApp\\Calculator\\framework.h",
-              "RelativeToolTip": "Calculator\\framework.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-03-02T08:49:06.34Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "pch.cpp",
-              "DocumentMoniker": "\\\\vmware-host\\Shared Folders\\Documents\\PROJ\\TestProjects\\DllConSoleApp\\Calculator\\pch.cpp",
-              "RelativeDocumentMoniker": "Calculator\\pch.cpp",
-              "ToolTip": "\\\\vmware-host\\Shared Folders\\Documents\\PROJ\\TestProjects\\DllConSoleApp\\Calculator\\pch.cpp",
-              "RelativeToolTip": "Calculator\\pch.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-03-02T08:45:42.69Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "dllmain.cpp",
-              "DocumentMoniker": "\\\\vmware-host\\Shared Folders\\Documents\\PROJ\\TestProjects\\DllConSoleApp\\Calculator\\dllmain.cpp",
-              "RelativeDocumentMoniker": "Calculator\\dllmain.cpp",
-              "ToolTip": "\\\\vmware-host\\Shared Folders\\Documents\\PROJ\\TestProjects\\DllConSoleApp\\Calculator\\dllmain.cpp",
-              "RelativeToolTip": "Calculator\\dllmain.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-03-02T08:34:12.804Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Multiply.h",
-              "DocumentMoniker": "\\\\vmware-host\\Shared Folders\\Documents\\PROJ\\TestProjects\\DllConSoleApp\\Calculator\\Multiply.h",
-              "RelativeDocumentMoniker": "Calculator\\Multiply.h",
-              "ToolTip": "\\\\vmware-host\\Shared Folders\\Documents\\PROJ\\TestProjects\\DllConSoleApp\\Calculator\\Multiply.h",
-              "RelativeToolTip": "Calculator\\Multiply.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-03-02T08:32:53.756Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }

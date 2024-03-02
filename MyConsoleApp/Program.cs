@@ -16,7 +16,7 @@ namespace MyConsoleApp
 
 
             int num1 = 2;
-            int num2 = 3;
+            int num2 = 6;
 
        
             int result = MultiplyNumbers(num1, num2);
