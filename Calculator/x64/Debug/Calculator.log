@@ -1,0 +1,13 @@
+﻿  pch.cpp
+  dllmain.cpp
+  multiplydll.cpp
+  Generating Code...
+\\vmware-host\Shared Folders\Documents\PROJ\TestProjects\DllConSoleApp\Calculator\multiplydll.cpp(6,38): warning C4273: 'MultiplyNumbers': inconsistent dll linkage
+  (compiling source file 'file:///multiplydll.cpp')
+  \\vmware-host\Shared Folders\Documents\PROJ\TestProjects\DllConSoleApp\Calculator\Multiply.h(8,24):
+  see previous definition of 'MultiplyNumbers'
+  
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  dllmain.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+     Creating library \\vmware-host\Shared Folders\Documents\PROJ\TestProjects\DllConSoleApp\x64\Debug\Calculator.lib and object \\vmware-host\Shared Folders\Documents\PROJ\TestProjects\DllConSoleApp\x64\Debug\Calculator.exp
+  Calculator.vcxproj -> \\vmware-host\Shared Folders\Documents\PROJ\TestProjects\DllConSoleApp\x64\Debug\Calculator.dll
